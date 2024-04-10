@@ -1,6 +1,7 @@
 # Unit Converter
 - we will create a unit converter app using a basic jetpack compose
 - It will convert values from input to output units and vice-versa
+- Whenever we change input or output units or values, the result is automatically updated
 ---
 ## Screenshots
 <p align="center">
